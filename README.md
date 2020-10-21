@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# THIS IS NOT A DRILL
-## meda pollen vanaf blaave
-=======
 # The Green Gnome without his beard.
 
 Cock-a-doodle-dooooo!
@@ -17,4 +13,3 @@ Maybe it had something to do with the eggs they got from the neighbours, Harald 
 So they went to the neighbours to ask what about the eggs?
 The cock was been very active the last days...
 Seems they were eating an egg that was having a little chicken in there...
->>>>>>> development
