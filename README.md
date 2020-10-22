@@ -17,3 +17,8 @@ Seems they were eating an egg that was having a little chicken in there...
 
 
 Nothing to see here, the story is done!
+<<<<<<< HEAD
+=======
+
+This is for the screenz
+>>>>>>> Basile
