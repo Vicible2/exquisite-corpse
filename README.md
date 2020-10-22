@@ -14,9 +14,6 @@ Maybe it had something to do with the eggs they got from the neighbours, Harald 
 So they went to the neighbours to ask what about the eggs?
 The cock was been very active the last days...
 Seems they were eating an egg that was having a little chicken in there...
-<<<<<<< HEAD
-=======
 
 
 Nothing to see here, the story is done!
->>>>>>> Basile
